@@ -16,5 +16,9 @@
 	},
 	"devDependencies": {
 		"@wordpress/scripts": "^26.0.0"
+	},
+	"dependencies": {
+		"@wordpress/icons": "^9.20.0",
+		"slick-carousel": "^1.8.1"
 	}
 }

@@ -15,7 +15,6 @@ const MY_TEMPLATE = [
 import './editor.scss';
 
 export default function edit({ attributes, setAttributes }) {
-	console.log(attributes);
 	return (
 		<ul {...useBlockProps} style={{ "--my-css-var": attributes.dotColor }}>
 			<InspectorControls style={{ marginBottom: "40px" }}>
