@@ -1,0 +1,14 @@
+{
+	"name": "procoders-block/image-carousel",
+	"title": "Image Carousel",
+	"category": "text",
+	"icon": "smiley",
+	"description": "Example block written with ESNext standard and JSX support – build step required.",
+	"textdomain": "procoders-blocks",
+	"supports": {
+		"html": false
+	},
+	"editorScript": "file:./index.js",
+	"editorStyle": "file:./index.css",
+	"style": "file:./style-index.css"
+}
